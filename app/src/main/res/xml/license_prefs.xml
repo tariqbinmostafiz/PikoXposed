@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="Open Source Licenses">
+        <Preference
+            android:summary="Apache License 2.0"
+            android:title="piko (by crimera)">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/crimera/piko" />
+        </Preference>
+        <Preference
+            android:summary="LGPL-3.0, LuckyPray"
+            android:title="DexKit">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/LuckyPray/DexKit" />
+        </Preference>
+        <Preference
+            android:summary="Apache License 2.0"
+            android:title="NexAlloy (framework base)">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/NexAlloy/NexAlloy" />
+        </Preference>
+    </PreferenceScreen>
+</PreferenceScreen>

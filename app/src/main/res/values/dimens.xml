@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used by AppPatchSettingsActivity preference header buttons -->
+    <dimen name="preference_header_button_margin">8dp</dimen>
+</resources>

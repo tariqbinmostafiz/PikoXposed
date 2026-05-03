@@ -1,0 +1,19 @@
+# Build
+.gradle/
+build/
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+# Signing
+signing.properties
+*.jks
+*.keystore
+
+# Submodule check (piko should be git submodule)
+/piko/*
+!/piko/.gitkeep

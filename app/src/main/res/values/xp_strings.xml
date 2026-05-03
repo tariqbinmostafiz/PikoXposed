@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PikoXposed</string>
+    <string name="slogan_summary">Xposed module for X (Twitter) &amp; Instagram</string>
+    <string name="about_title">About PikoXposed</string>
+    <string name="faq_title">FAQ</string>
+    <string name="check_for_update_title">Check for updates</string>
+    <string name="hide_icon_title">Hide launcher icon</string>
+    <string name="hide_icon_summary">Hides the app from the launcher</string>
+    <string name="module_not_activated_summary">Module not activated. Enable in LSPosed and reboot.</string>
+    <string name="patch_selection">Supported Apps</string>
+    <string name="force_stop_to_apply_summary">Force stop app to apply patch changes.</string>
+</resources>
